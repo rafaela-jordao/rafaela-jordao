@@ -3,6 +3,7 @@
 
 - 🔭 Desenvolvedora Back-end em formação
 - 🌱 Estudando Typescript
+- 📫 E-mail: rafa.jordao.07@hotmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
