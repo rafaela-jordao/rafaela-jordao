@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Rafaela Jordão
 
 
-- 🔭 Desenvolvedora Back-end em formação
-- 🌱 Estudando Typescript
+- 🔭 Desenvolvedora Back-end 
+- 🌱 Estudando Python
 - 📫 E-mail: rafa.jordao.07@hotmail.com
 - 😄 Pronouns: ela/dela
 
